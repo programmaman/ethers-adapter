@@ -1,9 +1,7 @@
 import type { AbstractProvider } from 'ethers';
 import type {
     BlockInfo,
-    CallRequest,
     EvmLog,
-    LogFilter,
     ReadBlockReference,
     RpcClient,
 } from './types.js';
